@@ -34,12 +34,11 @@ The input box should show a clear validation warning (e.g., text counter turning
 The text box silently cuts off the pasted text at 500 characters without displaying any error message, warning, or indication to the user.
 
 ### Attachment:
-*(Placeholder: If you have a screenshot for this bug, you can place it here)*  
-`![Input Limit Bug](./screenshots/input_limit_bug.png)`
+![Input Limit Bug](./input_limit_bug.png)
 
 ---
 
-<a id="tc-pt_bug_002"></a>
+<a id="pt_bug_002"></a>
 ## Bug Report 2: Frozen Slider Filter
 
 * **Bug ID:** PT_BUG_002
@@ -60,11 +59,11 @@ The slider handle should slide smoothly left or right, and the "Max Papers" coun
 The slider handle is completely locked/frozen and does not respond to mouse click-and-drag actions.
 
 ### Attachment:
-`![Frozen Slider Bug](./screenshots/frozen_slider_bug.png)`
+![Frozen Slider Bug](./frozen_slider_bug.png)
 
 ---
 
-<a id="tc-pt_bug_003"></a>
+<a id="pt_bug_003"></a>
 ## Bug Report 3: Tab State Issue on Auth Modal
 
 * **Bug ID:** PT_BUG_003
@@ -85,4 +84,4 @@ Selecting the "Create Account" tab should clearly transition the modal state to 
 The tab visual changes, but the form layout remains identical to the log-in page without clear visual confirmation of the registration state, leading to user confusion about whether they are logging in or signing up.
 
 ### Attachment:
-`![Auth Modal Bug](./screenshots/auth_modal_bug.png)`
+![Auth Modal Bug](./auth_modal_bug.png)
