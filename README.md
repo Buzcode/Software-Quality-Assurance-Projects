@@ -6,9 +6,9 @@ Welcome to my Software Quality Assurance (SQA) repository! This space showcases 
 
 ## 📂 Featured Projects
 
-### 1. [YouTube Search Feature Test Suite](./YouTube_Search_Test_Cases.md)
-*   **Description:** A comprehensive manual test suite consisting of 10 structured test cases to verify functional, boundary, and negative search behaviors on mobile.
-*   **Skills Demonstrated:** Boundary value testing, negative testing, multi-language validation, and testing offline states.
+### 1. YouTube Search & Playback Testing Suite
+*   [**Test Plan**](./YouTube_Search_Test_Plan.md): Defines the scope, environment, testing types, and risk mitigations for the search and playback features.
+*   [**Test Cases**](./YouTube_Search_Test_Cases.md): 10 detailed manual test cases executing the scenarios defined in the test plan.
 
 ### 2. [Papertrace Web App Bug Reports](./Papertrace_Bug_Reports.md)
 *   **Description:** A set of 3 formal, detailed bug reports identifying UI, functional, and input-limit defects discovered during testing of the Papertrace web application.
