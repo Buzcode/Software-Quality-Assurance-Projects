@@ -34,7 +34,7 @@ Before writing scripts, I manually constructed and executed requests to verify C
 
 ---
 
-### 🤖 JavaScript Test Automation Scripts
+###  JavaScript Test Automation Scripts
 To optimize testing efficiency, I transitioned the manual verification steps into automated assertions inside Postman's **Scripts (Post-response)** tab. These scripts execute automatically the millisecond a response is returned:
 
 *   **Status Code Validation (GET & POST):**
@@ -69,7 +69,7 @@ During automation scripting, a test verifying array lengths on the POST endpoint
 *   **The Fix:** Adjusted assertion targets to align with the unique structural schema of each endpoint payload. 
 *   **The Takeaway:** Verification assertions must be carefully customized to match the expected JSON structure of each specific endpoint to avoid false-failing scripts.
 
-### 🚀 How to Run the Collection
+### How to Run the Collection
 1. Download or clone this repository.
 2. Open **Postman**.
 3. Click **Import** in the top left and upload the `API Testing.postman_collection.json` file.
@@ -88,7 +88,7 @@ Throughout these projects, I have practiced and applied the following software t
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am an aspiring Software Quality Assurance Engineer dedicated to delivering reliable, user-friendly software. I enjoy diving deep into applications, finding edge cases, and collaborating with developers to resolve defects early in the Software Development Life Cycle (SDLC).
 
